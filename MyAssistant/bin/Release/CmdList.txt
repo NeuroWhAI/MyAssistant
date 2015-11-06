@@ -1,0 +1,81 @@
+비서
+Run_Assistant
+
+비서 정지
+Stop_Assistant
+
+크롬 실행
+Run_Program
+C:\Program Files (x86)\Google\Chrome\Application\chrome.exe	
+메모장 실행
+Run_Program
+C:\Windows\notepad.exe	
+탐색기 실행
+Run_Program
+C:\Windows\explorer.exe	
+캡쳐 실행
+Run_Program
+C:\Windows\system32\SnippingTool.exe	
+계산기 실행
+Run_Program
+C:\Windows\system32\calc.exe	
+구글 열어
+Run_Program
+C:\Program Files (x86)\Google\Chrome\Application\chrome.exe	google.com
+티비플 열어
+Run_Program
+C:\Program Files (x86)\Google\Chrome\Application\chrome.exe	tvple.com
+오늘 급식
+Run_Program
+C:\Program Files (x86)\Google\Chrome\Application\chrome.exe	http://xn--299aob8qwd905blsk3ir4ld23ak98g.xn--3e0b707e/?act=lunch.main&mcode=1117
+탭 닫아
+Keyboard_Input
+W#87#oxx
+창 닫아
+Exit_Top_Program
+
+창 내려
+Mini_Top_Program
+
+창 올려
+Max_PrevMini_Program
+
+창 숨겨
+Hide_Top_Program
+
+창 열어
+Show_All_Hide_Program
+
+강제종료
+Keyboard_Input
+F4#115#xxo
+내 아이디
+Typing_Str
+tlsehdgus321
+내 이메일
+Typing_Str
+tlsehdgus321@naver.com
+비주얼스튜디오 실행
+Run_Program
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\Common7\IDE\devenv.exe	
+포토샵 실행
+Run_Program
+C:\Program Files\Adobe\Adobe Photoshop CS5 (64 Bit)\Photoshop.exe	
+엔터
+Keyboard_Input
+Return#13#xxx
+위로
+Keyboard_Input
+Up#38#xxx
+아래로
+Keyboard_Input
+Down#40#xxx
+알송 실행
+Run_Program
+C:\Program Files (x86)\ESTsoft\ALSong\ALSong.exe	
+내 비밀번호
+Typing_Str
+!@sin0212
+탭
+Keyboard_Input
+Tab#9#xxx

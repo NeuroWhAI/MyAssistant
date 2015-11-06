@@ -1,0 +1,45 @@
+비서
+Run_Assistant
+
+비서 정지
+Stop_Assistant
+
+닫아
+Exit_Top_Program
+
+내려
+Mini_Top_Program
+
+올려
+Max_PrevMini_Program
+
+숨겨
+Hide_Top_Program
+
+다 열어
+Show_All_Hide_Program
+
+인터넷 열어
+Run_Program
+C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+메모장 실행
+Run_Program
+C:\Windows\notepad.exe
+구글 열어
+Run_Program
+C:\Program Files (x86)\Google\Chrome\Application\chrome.exe	google.com
+크롬 종료
+Exit_Program
+chrome
+Say google
+Say_Sentence
+Google
+Google
+Run_Program
+C:\Program Files (x86)\Google\Chrome\Application\chrome.exe	google.com
+제작자 블로그
+Typing_Str
+blog.naver.com/tlsehdgus321
+강제종료
+Keyboard_Input
+F4#115#xxo

@@ -1,0 +1,20 @@
+<grammar version="1.0" sapi:alphabet="x-microsoft-ups" xml:lang="ko-KR" root="Command"
+tag-format="semantics-ms/1.0" xmlns="http://www.w3.org/2001/06/grammar"
+xmlns:sapi="http://schemas.microsoft.com/Speech/2002/06/SRGSExtensions">
+<rule id="Command" scope="public">
+<one-of>
+<item>비서</item>
+<item>비서 정지</item>
+<item>닫아</item>
+<item>내려</item>
+<item>올려</item>
+<item>숨겨</item>
+<item>다 열어</item>
+<item>인터넷 열어</item>
+<item>메모장 실행</item>
+<item>구글 열어</item>
+<item>크롬 종료</item>
+<item>제작자 블로그</item>
+<item>강제종료</item>
+</one-of>
+</rule></grammar>
